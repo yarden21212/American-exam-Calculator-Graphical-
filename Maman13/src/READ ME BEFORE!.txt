@@ -1,0 +1,4 @@
+Question 1: includes AmericanExam, AmericanExamController (for the graphics), DataBase (interface), FileDatabase which gives the possibility to read information from a file, Question, Quiz.
+And almost most important: quiz note in the project's file (to read the questions and answers from a file)
+
+Question 2: Includes Calculator and CalculatorController
